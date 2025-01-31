@@ -10,12 +10,8 @@ Este repositório contém exercícios organizados por tema e dificuldade. Meu ob
 
 ```sh
 📦 exercicios
-├── 📁 linguagem1
-│   ├── exercicio1.ext
-│   ├── exercicio2.ext
+├── 📁 pastadoexercicio
+│   ├── index.html
+│   ├── styles.css
 │   └── ...
-├── 📁 linguagem2
-│   ├── exercicio1.ext
-│   ├── exercicio2.ext
-│   └── ...
-└── README.md
+└──
